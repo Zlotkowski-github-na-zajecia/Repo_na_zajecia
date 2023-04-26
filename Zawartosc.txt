@@ -5,3 +5,7 @@ Zawartość tego repozytorium
 #########################
 Tu ten plik był edytowany
 #########################
+
+#########################
+Tu dodana jest nowa gałąź
+#########################
