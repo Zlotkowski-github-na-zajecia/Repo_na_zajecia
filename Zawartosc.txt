@@ -9,3 +9,4 @@ Tu ten plik był edytowany
 #########################
 Tu dodana jest nowa gałąź
 #########################
+hej tu współpracownik
